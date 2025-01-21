@@ -6,7 +6,7 @@ WebsocketsClient socket;
 const char* websocketServer = "ws://192.168.229.19:8000/";
 boolean connected = false;
 
-const char* ssid = "Neel's Galaxy S20 FE 5G";
+const char* ssid = "omkar's_phone";
 const char* password = "12345678";
 
 
