@@ -1,5 +1,5 @@
 
-![Smart Home Banner](./assets/banner.png)
+![Smart Home Banner](./banner.png)
 
 # 🔌 IntelliHub – Smart Home Automation System
 
